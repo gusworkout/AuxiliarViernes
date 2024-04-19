@@ -4,6 +4,9 @@ div.inicio{
     width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
+    margin: auto;
+    align-items: center;
+    text-align: center;
 }
 
 div.formulario{
