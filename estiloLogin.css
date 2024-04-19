@@ -10,4 +10,6 @@ div.formulario{
     background-color: rgba(0, 0, 0, 0.375);
     height: 300px;
     width: 300px;
+    align-items: center;
+    margin: auto;
 }
