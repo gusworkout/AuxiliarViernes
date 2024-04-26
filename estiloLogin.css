@@ -44,5 +44,7 @@ input{
    background-color: rgba(0, 0, 0, 0.36);
 }
 button{
-
+   border-radius: 10px;
+   width:  150px;
+   height: 40px;
 }
